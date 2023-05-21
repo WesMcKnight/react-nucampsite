@@ -7,7 +7,7 @@ const SubHeader = ({ current, detail }) => {
             <Col>
                 <Breadcrumb>
                     <BreadcrumbItem>
-                        <Link to='/'>Home</Link>
+                        <Link to='/react-nucampsite'>Home</Link>
                     </BreadcrumbItem>
                     {detail && (
                         <BreadcrumbItem>
